@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(62, 28, 28);
+    color: pink;
+}
+
+body {
+    border-radius: 10px;
+    font-family: "Times New Roman", serif;
+    display: block;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+li {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-family: "Times New Roman", serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: #fff;
+    cursor: pointer;
+  }
