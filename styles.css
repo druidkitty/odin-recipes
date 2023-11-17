@@ -3,6 +3,8 @@
     color: pink;
     border-radius: 10px;
     font-family: "Times New Roman", serif;
+    box-sizing: border-box;
+
 }
 
 html {
@@ -14,12 +16,14 @@ html {
     box-sizing: inherit;
   }
 
+  .recipetitle {
+    margin-top: 6rem;
+  }
+
 
 h1 {
     text-align: center;
     font-family: "Times New Roman", serif;
-    margin-top: 90px;
-    margin-bottom: 20px;
 }
 
 img {
