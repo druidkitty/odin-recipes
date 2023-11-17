@@ -1,20 +1,8 @@
 * {
-    background-color: rgb(62, 28, 28);
     color: pink;
-    border-radius: 10px;
     font-family: "Times New Roman", serif;
-    box-sizing: border-box;
 
 }
-
-html {
-    box-sizing: border-box;
-  }
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
 
   .recipetitle {
     margin-top: 6rem;
